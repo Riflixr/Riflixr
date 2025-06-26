@@ -24,7 +24,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-*(Let me know if you'd like to add Discord, GitHub, or another platform)*
 
 # 💻 Tech Stack
 
