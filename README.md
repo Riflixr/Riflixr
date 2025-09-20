@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shamsujjuha</h1>
+<h1 align="center">Hi 👋 I'm Riflixr</h1>
 
 # 💫 About Me:
 🎓 I’m Shamsujjuha, a 16-year-old student passionate about programming and technology.  
