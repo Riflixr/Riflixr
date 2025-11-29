@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Riflixr</h1>
 
 # 💫 About Me:
-🎓 I’m Riflixr, a 16-year-old student passionate about programming and technology.  
+🎓 I’m Riflixr, a 17-year-old student passionate about programming and technology.  
 🚀 Currently learning backend development with Java (Spring), Python, and JavaScript.  
 🧠 I’m also diving into AI/ML and love building things that solve real problems.
 
